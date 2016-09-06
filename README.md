@@ -35,9 +35,9 @@ Honza
 | [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | - | Swift | C7-compatibility Jay layer |
 | [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | - | Swift | Extra conveniences to work with Jay |
 | [czechboy0/Pong](https://github.com/czechboy0/Pong) | - | Swift | Server uptime monitor |
-| [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | - | Swift | Swift Redis client |
+| [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | - | Swift | TLS layer for Socks |
-| [czechboy0/Socks](https://github.com/czechboy0/Socks) | - | Swift | Sockets in Swift |
+| [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
 | [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | - | Swift | Service for converting Package.swift to JSON |
 | [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | - | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
