@@ -40,10 +40,10 @@ Honza
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
 | [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | - | Swift | Service for converting Package.swift to JSON |
-| [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | - | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
-| [czechboy0/swift-package-crawler-data](https://github.com/czechboy0/swift-package-crawler-data) | - | Data | swift-package-crawler data dumps |
+| [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | [paulofaria](https://github.com/paulofaria/swift-package-crawler) | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
+| [czechboy0/swift-package-crawler-data](https://github.com/czechboy0/swift-package-crawler-data) | [paulofaria](https://github.com/paulofaria/swift-package-crawler-data) | Data | swift-package-crawler data dumps |
 | [czechboy0/swiftpm-dependency-fetcher](https://github.com/czechboy0/swiftpm-dependency-fetcher) | [DanToml](https://github.com/DanToml/swiftpm-dependency-fetcher) | Swift | Service for viewing SwiftPM dependencies (powers [swiftpm-deps.honza.tech](http://swiftpm-deps.honza.tech/web)) |
-| [czechboy0/swiftpm-packages-statistics](https://github.com/czechboy0/swiftpm-packages-statistics) | - | Markdown | Regularly crawled SwiftPM package statistics |
+| [czechboy0/swiftpm-packages-statistics](https://github.com/czechboy0/swiftpm-packages-statistics) | [paulofaria](https://github.com/paulofaria/swiftpm-packages-statistics) | Markdown | Regularly crawled SwiftPM package statistics |
 | [czechboy0/SwiftSafe](https://github.com/czechboy0/SwiftSafe) | - | Swift | Easy thread synchronization with GCD |
 | [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | - | Swift | Run CLI commands from Swift |
 | [czechboy0/Templater](https://github.com/czechboy0/Templater) | - | Swift | Extremely light-weight templating engine |
