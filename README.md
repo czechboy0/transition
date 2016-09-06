@@ -28,7 +28,7 @@ Honza
 | [czechboy0/Environment](https://github.com/czechboy0/Environment) | [Danappelxx](https://github.com/Danappelxx/Environment) | Swift | Access to environment variables |
 | [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | [czechboy0-depricated](https://github.com/czechboy0-depricated/Express-4x-Typescript-Sample) | TypeScript | [Depricated] TypeScript + Node.js + Express sample |
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
-| [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
+| [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | [paulofaria](https://github.com/paulofaria/gzip-openswift) | Swift | C7/S4 middlewares for gzip |
 | [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | [vapor](https://github.com/vapor/gzip-provider) | Swift | Vapor middlewares for gzip |
 | [czechboy0/hit](https://github.com/czechboy0/hit) | - | Swift | Experimental full-text search |
 | [czechboy0/Jay](https://github.com/czechboy0/Jay) | [DanToml](https://github.com/DanToml/Jay) | Swift | JSON parser, NSJSON replacement |
