@@ -25,7 +25,7 @@ Honza
 | [czechboy0/cmark](https://github.com/czechboy0/cmark) | [vapor](https://github.com/vapor/cmark) | C/Swift | SwiftPM-compatible cmark fork |
 | [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | [vapor](https://github.com/vapor/cmark.swift) | Swift | Swift cmark wrapper |
 | [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | - | Objective-C | UI/Foundation extensions and utilities |
-| [czechboy0/Environment](https://github.com/czechboy0/Environment) | - | Swift | Access to environment variables |
+| [czechboy0/Environment](https://github.com/czechboy0/Environment) | [Danappelxx](https://github.com/Danappelxx/Environment) | Swift | Access to environment variables |
 | [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | - | TypeScript | TypeScript + Node.js + Express sample |
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
 | [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
@@ -39,7 +39,7 @@ Honza
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | - | Swift | TLS layer for Socks |
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
-| [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | - | Swift | Service for converting Package.swift to JSON |
+| [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | [DanToml](https://github.com/DanToml/swift-package-converter) | Swift | Service for converting Package.swift to JSON |
 | [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | [paulofaria](https://github.com/paulofaria/swift-package-crawler) | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
 | [czechboy0/swift-package-crawler-data](https://github.com/czechboy0/swift-package-crawler-data) | [paulofaria](https://github.com/paulofaria/swift-package-crawler-data) | Data | swift-package-crawler data dumps |
 | [czechboy0/swiftpm-dependency-fetcher](https://github.com/czechboy0/swiftpm-dependency-fetcher) | [DanToml](https://github.com/DanToml/swiftpm-dependency-fetcher) | Swift | Service for viewing SwiftPM dependencies (powers [swiftpm-deps.honza.tech](http://swiftpm-deps.honza.tech/web)) |
