@@ -31,9 +31,9 @@ Honza
 | [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
 | [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | [vapor](https://github.com/vapor/gzip-provider) | Swift | Vapor middlewares for gzip |
 | [czechboy0/hit](https://github.com/czechboy0/hit) | - | Swift | Experimental full-text search |
-| [czechboy0/Jay](https://github.com/czechboy0/Jay) | - | Swift | JSON parser, NSJSON replacement |
-| [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | - | Swift | C7-compatibility Jay layer |
-| [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | - | Swift | Extra conveniences to work with Jay |
+| [czechboy0/Jay](https://github.com/czechboy0/Jay) | [DanToml](https://github.com/DanToml/Jay) | Swift | JSON parser, NSJSON replacement |
+| [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | [DanToml](https://github.com/DanToml/Jay-C7) | Swift | C7-compatibility Jay layer |
+| [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | [DanToml](https://github.com/DanToml/Jay-Extras) | Swift | Extra conveniences to work with Jay |
 | [czechboy0/Pong](https://github.com/czechboy0/Pong) | - | Swift | Server uptime monitor |
 | [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | - | Swift | TLS layer for Socks |
