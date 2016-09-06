@@ -7,15 +7,15 @@ If you're interested in taking over one of my projects, please read the lightwei
 # Terms of handover
 ## New owner responsibilities
 
-- the project will retain my name (Honza Dvorsky), Twitter handle (@czechboy0) and website link (honzadvorsky.com) in the README as the original author, however not as a maintainer anymore (while you add yourself as the current maintainer). Doesn't need to be prominent, small print at the end of readme is just fine.
-- the project will have a Code of Conduct which will be enforced by you (or whomever you delegate it to), to ensure a welcoming environment for all contributors
-- the project will not be deleted for the duration of at least 3 months, even if you stop maintaining it (to give people time to fork/migrate)
+- The project will retain my name (Honza Dvorsky), Twitter handle (@czechboy0) and website link (honzadvorsky.com) in the README, describing me as the original author. You add yourself as the current owner and maintainer. My name/link doesn't need to be prominent, small print at the end of the README will suffice.
+- The project will have a Code of Conduct which will be enforced by you (or whomever you delegate it to), to ensure a welcoming environment for all contributors. Please ensure the CoC has your email address in it.
+- The project will not be deleted for the duration of at least 3 months, even if you stop maintaining it (to give people time to fork/migrate).
 
 ## New owner rights
 
-- you have a complete freedom over the project given that all responsibilities described above are respected (I trust your judgement)
+- You have a complete freedom over the project given that all responsibilities are respected. (I trust your judgement.)
 
-Thanks for helping me keep the project alive and thrive in the future :) 
+Thanks for helping me keep the projects alive and thrive in the future :) 
 
 Honza
 
