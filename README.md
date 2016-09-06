@@ -1,17 +1,17 @@
-# transition
+# :bowtie: transition
 
 This document outlines the transition of my open source projects to new owners as dictated by [circumstances](https://twitter.com/czechboy0/status/762662990135062528). 
 
 If you're interested in taking over one of my projects, please read the lightweight terms below (so that we're on the same page) and if that sounds good and you see a project in the table below without a new owner, get in touch! :) (If there's a project you like that already has a new owner, please contact them directly - I'm sure they'd appreciate any help with co-maintaining.)
 
-# Terms of handover
-## New owner responsibilities
+# :point_right: Terms of handover
+## :ok_hand: New owner responsibilities
 
 - The project will retain my name (Honza Dvorsky), Twitter handle (@czechboy0) and website link (honzadvorsky.com) in the README, describing me as the original author. You add yourself as the current owner and maintainer. My name/link doesn't need to be prominent, small print at the end of the README will suffice.
 - The project will have a Code of Conduct which will be enforced by you (or whomever you delegate it to), to ensure a welcoming environment for all contributors. Please ensure the CoC has your email address in it.
 - The project will not be deleted for the duration of at least 3 months, even if you stop maintaining it (to give people time to fork/migrate).
 
-## New owner rights
+## :thumbsup: New owner rights
 
 - You have a complete freedom over the project given that all responsibilities are respected. (I trust your judgement.)
 
