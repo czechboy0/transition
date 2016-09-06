@@ -29,7 +29,7 @@ Honza
 | [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | - | TypeScript | TypeScript + Node.js + Express sample |
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
 | [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
-| [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | - | Swift | Vapor middlewares for gzip |
+| [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | [vapor](https://github.com/vapor/gzip-provider) | Swift | Vapor middlewares for gzip |
 | [czechboy0/hit](https://github.com/czechboy0/hit) | - | Swift | Experimental full-text search |
 | [czechboy0/Jay](https://github.com/czechboy0/Jay) | - | Swift | JSON parser, NSJSON replacement |
 | [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | - | Swift | C7-compatibility Jay layer |
@@ -47,5 +47,5 @@ Honza
 | [czechboy0/SwiftSafe](https://github.com/czechboy0/SwiftSafe) | - | Swift | Easy thread synchronization with GCD |
 | [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | - | Swift | Run CLI commands from Swift |
 | [czechboy0/Templater](https://github.com/czechboy0/Templater) | - | Swift | Extremely light-weight templating engine |
-| [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | - | Swift | Vapor adapter for Markdown using cmark.swift |
+| [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | [vapor](https://github.com/vapor/markdown-provider) | Swift | Vapor adapter for Markdown using cmark.swift |
 | [czechboy0/zlib](https://github.com/czechboy0/zlib) | [Zewo](https://github.com/Zewo/zlib) | C | SwiftPM-compatible fork of zlib |
