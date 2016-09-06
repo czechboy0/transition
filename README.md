@@ -22,8 +22,8 @@ Honza
 | Repo name | New owner | Language | TL;DR |
 | --- | --- | --- | --- |
 | [czechboy0/BSON2JSON](https://github.com/czechboy0/BSON2JSON) | - | Swift | BSON <-> JSON conversion |
-| [czechboy0/cmark](https://github.com/czechboy0/cmark) | - | C/Swift | SwiftPM-compatible cmark fork |
-| [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | - | Swift | Swift cmark wrapper |
+| [czechboy0/cmark](https://github.com/czechboy0/cmark) | [vapor](https://github.com/vapor/cmark) | C/Swift | SwiftPM-compatible cmark fork |
+| [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | [vapor](https://github.com/vapor/cmark.swift) | Swift | Swift cmark wrapper |
 | [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | - | Objective-C | UI/Foundation extensions and utilities |
 | [czechboy0/Environment](https://github.com/czechboy0/Environment) | - | Swift | Access to environment variables |
 | [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | - | TypeScript | TypeScript + Node.js + Express sample |
