@@ -24,9 +24,9 @@ Honza
 | [czechboy0/BSON2JSON](https://github.com/czechboy0/BSON2JSON) | [Joannis](https://github.com/Joannis/BSON2JSON) | Swift | BSON <-> JSON conversion |
 | [czechboy0/cmark](https://github.com/czechboy0/cmark) | [vapor](https://github.com/vapor/cmark) | C/Swift | SwiftPM-compatible cmark fork |
 | [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | [vapor](https://github.com/vapor/cmark.swift) | Swift | Swift cmark wrapper |
-| [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | - | Objective-C | UI/Foundation extensions and utilities |
+| [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | [czechboy0-depricated](https://github.com/czechboy0-depricated/DUIToolbox) | Objective-C | [Depricated] UI/Foundation extensions and utilities |
 | [czechboy0/Environment](https://github.com/czechboy0/Environment) | [Danappelxx](https://github.com/Danappelxx/Environment) | Swift | Access to environment variables |
-| [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | - | TypeScript | TypeScript + Node.js + Express sample |
+| [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | [czechboy0-depricated](https://github.com/czechboy0-depricated/Express-4x-Typescript-Sample) | TypeScript | [Depricated] TypeScript + Node.js + Express sample |
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
 | [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
 | [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | [vapor](https://github.com/vapor/gzip-provider) | Swift | Vapor middlewares for gzip |
@@ -36,7 +36,7 @@ Honza
 | [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | [DanToml](https://github.com/DanToml/Jay-Extras) | Swift | Extra conveniences to work with Jay |
 | [czechboy0/Pong](https://github.com/czechboy0/Pong) | - | Swift | Server uptime monitor |
 | [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
-| [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | [czechboy0-depricated](https://github.com/czechboy0-depricated/SecretSocks) | Swift | [DEPRICATED] TLS layer for Socks |
+| [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | [czechboy0-depricated](https://github.com/czechboy0-depricated/SecretSocks) | Swift | [Depricated] TLS layer for Socks |
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
 | [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | [DanToml](https://github.com/DanToml/swift-package-converter) | Swift | Service for converting Package.swift to JSON |
