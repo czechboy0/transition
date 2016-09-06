@@ -21,31 +21,31 @@ Honza
 
 | Repo name | New name | Language | TL;DR |
 | --- | --- | --- | --- |
-| czechboy0/BSON2JSON | - | Swift | BSON <-> JSON conversion |
-| czechboy0/cmark | - | C/Swift | SwiftPM-compatible cmark fork |
-| czechboy0/cmark.swift | - | Swift | Swift cmark wrapper |
-| czechboy0/DUIToolbox | - | Objective-C | UI/Foundation extensions and utilities |
-| czechboy0/Environment | - | Swift | Access to environment variables |
-| czechboy0/Express-4x-Typescript-Sample | - | TypeScript | TypeScript + Node.js + Express sample |
-| czechboy0/gzip | Zewo/gzip | Swift | Swift wrapper of zlib made for easy gzip |
-| czechboy0/gzip-openswift | - | Swift | C7/S4 middlewares for gzip |
-| czechboy0/gzip-vapor | - | Swift | Vapor middlewares for gzip |
-| czechboy0/hit | - | Swift | Experimental full-text search |
-| czechboy0/Jay | - | Swift | JSON parser, NSJSON replacement |
-| czechboy0/Jay-C7 | - | Swift | C7-compatibility Jay layer |
-| czechboy0/Jay-Extras | - | Swift | Extra conveniences to work with Jay |
-| czechboy0/Pong | - | Swift | Server uptime monitor |
-| czechboy0/Redbird | - | Swift | Swift Redis client |
-| czechboy0/SecretSocks | - | Swift | TLS layer for Socks |
-| czechboy0/Socks | - | Swift | Sockets in Swift |
-| czechboy0/swift-index | - | Swift | Experimental SwiftPM package-searching service |
-| czechboy0/swift-package-converter | - | Swift | Service for converting Package.swift to JSON |
-| czechboy0/swift-package-crawler | - | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
-| czechboy0/swift-package-crawler-data | - | Data | swift-package-crawler data dumps |
-| czechboy0/swiftpm-dependency-fetcher | - | Swift | Service for viewing SwiftPM dependencies (powers [swiftpm-deps.honza.tech](http://swiftpm-deps.honza.tech/web)) |
-| czechboy0/swiftpm-packages-statistics | - | Markdown | Regularly crawled SwiftPM package statistics |
-| czechboy0/SwiftSafe | - | Swift | Easy thread synchronization with GCD |
-| czechboy0/Tasks | - | Swift | Run CLI commands from Swift |
-| czechboy0/Templater | - | Swift | Extremely light-weight templating engine |
-| czechboy0/vapor-markdown | - | Swift | Vapor adapter for Markdown using cmark.swift |
-| czechboy0/zlib | Zewo/zlib | C | SwiftPM-compatible fork of zlib |
+| [czechboy0/BSON2JSON](https://github.com/czechboy0/BSON2JSON) | - | Swift | BSON <-> JSON conversion |
+| [czechboy0/cmark](https://github.com/czechboy0/cmark) | - | C/Swift | SwiftPM-compatible cmark fork |
+| [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | - | Swift | Swift cmark wrapper |
+| [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | - | Objective-C | UI/Foundation extensions and utilities |
+| [czechboy0/Environment](https://github.com/czechboy0/Environment) | - | Swift | Access to environment variables |
+| [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | - | TypeScript | TypeScript + Node.js + Express sample |
+| [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo/gzip](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
+| [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | - | Swift | C7/S4 middlewares for gzip |
+| [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | - | Swift | Vapor middlewares for gzip |
+| [czechboy0/hit](https://github.com/czechboy0/hit) | - | Swift | Experimental full-text search |
+| [czechboy0/Jay](https://github.com/czechboy0/Jay) | - | Swift | JSON parser, NSJSON replacement |
+| [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | - | Swift | C7-compatibility Jay layer |
+| [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | - | Swift | Extra conveniences to work with Jay |
+| [czechboy0/Pong](https://github.com/czechboy0/Pong) | - | Swift | Server uptime monitor |
+| [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | - | Swift | Swift Redis client |
+| [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | - | Swift | TLS layer for Socks |
+| [czechboy0/Socks](https://github.com/czechboy0/Socks) | - | Swift | Sockets in Swift |
+| [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
+| [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | - | Swift | Service for converting Package.swift to JSON |
+| [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | - | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
+| [czechboy0/swift-package-crawler-data](https://github.com/czechboy0/swift-package-crawler-data) | - | Data | swift-package-crawler data dumps |
+| [czechboy0/swiftpm-dependency-fetcher](https://github.com/czechboy0/swiftpm-dependency-fetcher) | - | Swift | Service for viewing SwiftPM dependencies (powers [swiftpm-deps.honza.tech](http://swiftpm-deps.honza.tech/web)) |
+| [czechboy0/swiftpm-packages-statistics](https://github.com/czechboy0/swiftpm-packages-statistics) | - | Markdown | Regularly crawled SwiftPM package statistics |
+| [czechboy0/SwiftSafe](https://github.com/czechboy0/SwiftSafe) | - | Swift | Easy thread synchronization with GCD |
+| [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | - | Swift | Run CLI commands from Swift |
+| [czechboy0/Templater](https://github.com/czechboy0/Templater) | - | Swift | Extremely light-weight templating engine |
+| [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | - | Swift | Vapor adapter for Markdown using cmark.swift |
+| [czechboy0/zlib](https://github.com/czechboy0/zlib) | [Zewo/zlib](https://github.com/Zewo/zlib) | C | SwiftPM-compatible fork of zlib |
