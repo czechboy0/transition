@@ -30,7 +30,7 @@ Honza
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
 | [czechboy0/gzip-openswift](https://github.com/czechboy0/gzip-openswift) | [paulofaria](https://github.com/paulofaria/gzip-openswift) | Swift | C7/S4 middlewares for gzip |
 | [czechboy0/gzip-vapor](https://github.com/czechboy0/gzip-vapor) | [vapor](https://github.com/vapor/gzip-provider) | Swift | Vapor middlewares for gzip |
-| [czechboy0/hit](https://github.com/czechboy0/hit) | - | Swift | Experimental full-text search |
+| [czechboy0/hit](https://github.com/czechboy0/hit) | [Jcampbell05](https://github.com/Jcampbell05/hit) | Swift | Experimental full-text search |
 | [czechboy0/Jay](https://github.com/czechboy0/Jay) | [DanToml](https://github.com/DanToml/Jay) | Swift | JSON parser, NSJSON replacement |
 | [czechboy0/Jay-C7](https://github.com/czechboy0/Jay-C7) | [DanToml](https://github.com/DanToml/Jay-C7) | Swift | C7-compatibility Jay layer |
 | [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | [DanToml](https://github.com/DanToml/Jay-Extras) | Swift | Extra conveniences to work with Jay |
@@ -45,7 +45,7 @@ Honza
 | [czechboy0/swiftpm-dependency-fetcher](https://github.com/czechboy0/swiftpm-dependency-fetcher) | [DanToml](https://github.com/DanToml/swiftpm-dependency-fetcher) | Swift | Service for viewing SwiftPM dependencies (powers [swiftpm-deps.honza.tech](http://swiftpm-deps.honza.tech/web)) |
 | [czechboy0/swiftpm-packages-statistics](https://github.com/czechboy0/swiftpm-packages-statistics) | [paulofaria](https://github.com/paulofaria/swiftpm-packages-statistics) | Markdown | Regularly crawled SwiftPM package statistics |
 | [czechboy0/SwiftSafe](https://github.com/czechboy0/SwiftSafe) | - | Swift | Easy thread synchronization with GCD |
-| [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | - | Swift | Run CLI commands from Swift |
+| [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | [Jcampbell05](https://github.com/Jcampbell05/Tasks) | Swift | Run CLI commands from Swift |
 | [czechboy0/Templater](https://github.com/czechboy0/Templater) | [Jcampbell05](https://github.com/Jcampbell05/templater) | Swift | Extremely light-weight templating engine |
 | [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | [vapor](https://github.com/vapor/markdown-provider) | Swift | Vapor adapter for Markdown using cmark.swift |
 | [czechboy0/zlib](https://github.com/czechboy0/zlib) | [Zewo](https://github.com/Zewo/zlib) | C | SwiftPM-compatible fork of zlib |
