@@ -39,7 +39,7 @@ Honza
 | [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | [DanToml](https://github.com/DanToml/Jay-Extras) | Swift | Extra conveniences to work with Jay |
 | [czechboy0/Pong](https://github.com/czechboy0/Pong) | [levlaz](https://github.com/levlaz/Pong) | Swift | Server uptime monitor |
 | [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
-| [czechboy0/satellite](https://github.com/czechboy0/satellite) | [buildasaurs](https://github.com/buildasaurs/satellite) | Swift | Sever for providing build status badges for GitHub branches |
+| [czechboy0/satellite](https://github.com/czechboy0/satellite) | [buildasaurs](https://github.com/buildasaurs/satellite) | Node.js | Sever for providing build status badges for GitHub branches |
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | [czechboy0-deprecated](https://github.com/czechboy0-deprecated/SecretSocks) | Swift | [Deprecated] TLS layer for Socks |
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | [explicitcall](https://github.com/explicitcall/swift-index) | Swift | Experimental SwiftPM package-searching service |
