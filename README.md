@@ -52,7 +52,7 @@ Honza
 | [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | [Jcampbell05](https://github.com/Jcampbell05/Tasks) | Swift | Run CLI commands from Swift |
 | [czechboy0/Templater](https://github.com/czechboy0/Templater) | [Jcampbell05](https://github.com/Jcampbell05/templater) | Swift | Extremely light-weight templating engine |
 | [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | [vapor](https://github.com/vapor/markdown-provider) | Swift | Vapor adapter for Markdown using cmark.swift |
-| [czechboy0/XcodeServer-API-Docs](https://github.com/czechboy0/XcodeServer-API-Docs) | [buildasaurs](https://github.com/buildasaurs/XcodeServer-API-Docs) | Swift | Unofficial Xcode Server API documentation |
+| [czechboy0/XcodeServer-API-Docs](https://github.com/czechboy0/XcodeServer-API-Docs) | [buildasaurs](https://github.com/buildasaurs/XcodeServer-API-Docs) | Markdown | Unofficial Xcode Server API documentation |
 | [czechboy0/XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) | [buildasaurs](https://github.com/buildasaurs/XcodeServerSDK) | Swift | Access Xcode Server API with native Swift objects |
 | [czechboy0/xcskarel](https://github.com/czechboy0/xcskarel) | [buildasaurs](https://github.com/buildasaurs/xcskarel) | Swift | Quickly manage your Xcode Server & Bots from the command line |
 | [czechboy0/zlib](https://github.com/czechboy0/zlib) | [Zewo](https://github.com/Zewo/zlib) | C | SwiftPM-compatible fork of zlib |
