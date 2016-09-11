@@ -22,9 +22,12 @@ Honza
 | Repo name | New owner | Language | TL;DR |
 | --- | --- | --- | --- |
 | [czechboy0/BSON2JSON](https://github.com/czechboy0/BSON2JSON) | [Joannis](https://github.com/Joannis/BSON2JSON) | Swift | BSON <-> JSON conversion |
+| [czechboy0/Buildasaur](https://github.com/czechboy0/Buildasaur) | [buildasaurs](https://github.com/buildasaurs/Buildasaur) | Swift | Pull Request testing with Xcode Server |
+| [czechboy0/BuildaUtils](https://github.com/czechboy0/BuildaUtils) | [buildasaurs](https://github.com/buildasaurs/BuildaUtils) | Swift | Buildasaur Utils |
 | [czechboy0/cmark](https://github.com/czechboy0/cmark) | [vapor](https://github.com/vapor/cmark) | C/Swift | SwiftPM-compatible cmark fork |
 | [czechboy0/cmark.swift](https://github.com/czechboy0/cmark.swift) | [vapor](https://github.com/vapor/cmark.swift) | Swift | Swift cmark wrapper |
 | [czechboy0/DUIToolbox](https://github.com/czechboy0/DUIToolbox) | [czechboy0-deprecated](https://github.com/czechboy0-deprecated/DUIToolbox) | Objective-C | [Deprecated] UI/Foundation extensions and utilities |
+| [czechboy0/ekg-swift](https://github.com/czechboy0/ekg-swift) | [buildasaurs](https://github.com/buildasaurs/ekg-swift) | Swift | Buildasaur analytics server |
 | [czechboy0/Environment](https://github.com/czechboy0/Environment) | [Danappelxx](https://github.com/Danappelxx/Environment) | Swift | Access to environment variables |
 | [czechboy0/Express-4x-Typescript-Sample](https://github.com/czechboy0/Express-4x-Typescript-Sample) | [czechboy0-deprecated](https://github.com/czechboy0-deprecated/Express-4x-Typescript-Sample) | TypeScript | [Deprecated] TypeScript + Node.js + Express sample |
 | [czechboy0/gzip](https://github.com/czechboy0/gzip) | [Zewo](https://github.com/Zewo/gzip) | Swift | Swift wrapper of zlib made for easy gzip |
@@ -36,6 +39,7 @@ Honza
 | [czechboy0/Jay-Extras](https://github.com/czechboy0/Jay-Extras) | [DanToml](https://github.com/DanToml/Jay-Extras) | Swift | Extra conveniences to work with Jay |
 | [czechboy0/Pong](https://github.com/czechboy0/Pong) | [levlaz](https://github.com/levlaz/Pong) | Swift | Server uptime monitor |
 | [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
+| [czechboy0/satellite](https://github.com/czechboy0/satellite) | [buildasaurs](https://github.com/buildasaurs/satellite) | Swift | Sever for providing build status badges for GitHub branches |
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | [czechboy0-deprecated](https://github.com/czechboy0-deprecated/SecretSocks) | Swift | [Deprecated] TLS layer for Socks |
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
 | [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | [explicitcall](https://github.com/explicitcall/swift-index) | Swift | Experimental SwiftPM package-searching service |
@@ -48,4 +52,7 @@ Honza
 | [czechboy0/Tasks](https://github.com/czechboy0/Tasks) | [Jcampbell05](https://github.com/Jcampbell05/Tasks) | Swift | Run CLI commands from Swift |
 | [czechboy0/Templater](https://github.com/czechboy0/Templater) | [Jcampbell05](https://github.com/Jcampbell05/templater) | Swift | Extremely light-weight templating engine |
 | [czechboy0/vapor-markdown](https://github.com/czechboy0/vapor-markdown) | [vapor](https://github.com/vapor/markdown-provider) | Swift | Vapor adapter for Markdown using cmark.swift |
+| [czechboy0/XcodeServer-API-Docs](https://github.com/czechboy0/XcodeServer-API-Docs) | [buildasaurs](https://github.com/buildasaurs/XcodeServer-API-Docs) | Swift | Unofficial Xcode Server API documentation |
+| [czechboy0/XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) | [buildasaurs](https://github.com/buildasaurs/XcodeServerSDK) | Swift | Access Xcode Server API with native Swift objects |
+| [czechboy0/xcskarel](https://github.com/czechboy0/xcskarel) | [buildasaurs](https://github.com/buildasaurs/xcskarel) | Swift | Quickly manage your Xcode Server & Bots from the command line |
 | [czechboy0/zlib](https://github.com/czechboy0/zlib) | [Zewo](https://github.com/Zewo/zlib) | C | SwiftPM-compatible fork of zlib |
