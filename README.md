@@ -38,7 +38,7 @@ Honza
 | [czechboy0/Redbird](https://github.com/czechboy0/Redbird) | [vapor](https://github.com/vapor/Redbird) | Swift | Swift Redis client |
 | [czechboy0/SecretSocks](https://github.com/czechboy0/SecretSocks) | [czechboy0-deprecated](https://github.com/czechboy0-deprecated/SecretSocks) | Swift | [Deprecated] TLS layer for Socks |
 | [czechboy0/Socks](https://github.com/czechboy0/Socks) | [vapor](https://github.com/vapor/Socks) | Swift | Sockets in Swift |
-| [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | - | Swift | Experimental SwiftPM package-searching service |
+| [czechboy0/swift-index](https://github.com/czechboy0/swift-index) | [explicitcall](https://github.com/explicitcall/swift-index) | Swift | Experimental SwiftPM package-searching service |
 | [czechboy0/swift-package-converter](https://github.com/czechboy0/swift-package-converter) | [DanToml](https://github.com/DanToml/swift-package-converter) | Swift | Service for converting Package.swift to JSON |
 | [czechboy0/swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) | [paulofaria](https://github.com/paulofaria/swift-package-crawler) | Swift | Crawler powering [SwiftPM Statistics](https://github.com/czechboy0/swiftpm-packages-statistics) |
 | [czechboy0/swift-package-crawler-data](https://github.com/czechboy0/swift-package-crawler-data) | [paulofaria](https://github.com/paulofaria/swift-package-crawler-data) | Data | swift-package-crawler data dumps |
